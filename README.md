@@ -1,7 +1,7 @@
-## Glad to see you here! 👋
+## Glad to see you here! 💖
 
 
-**KeeperOfBugs/KeeperOfBugs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello👋, I'm a Full-Stack Developer, GameDev helper and the one who keeps the bugs away from you 😉. I love figuring out how things work in depths, reading books and exploring the stories of different people 👀.
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
