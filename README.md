@@ -1,10 +1,10 @@
 ### Glad to see you here! 😄
 ### Hello👋, I'm a Full-Stack Developer, GameDev helper and the one who keeps the bugs away from you 😉. I love figuring out how things work in depths, reading books and exploring the stories of different people 👀.
 
-### My Tools :
-- ![image alt](https://github.com/KeeperOfBugs/KeeperOfBugs/blob/main/frontend.png?raw=true):
-- Backend:
-- Databases:
-- Other:
+###  My Tools Pack:
+ <img src="https://github.com/KeeperOfBugs/KeeperOfBugs/blob/main/frontend.png?raw=true" alt="Frontend:" width="130" height="60"> <img src="https://github.com/KeeperOfBugs/KeeperOfBugs/blob/main/html.png?raw=true" alt="HTML" width="97" height="60"> <img src="https://github.com/KeeperOfBugs/KeeperOfBugs/blob/main/CSS.png?raw=true" alt="CSS" width="80" height="60"> <br>
+ <img src="https://github.com/KeeperOfBugs/KeeperOfBugs/blob/main/backend.png?raw=true" alt="Backend:" width="130" height="60"> <img src="https://github.com/KeeperOfBugs/KeeperOfBugs/blob/main/springboot.png?raw=true" alt="HTML" width="97" height="60"> <img src="https://github.com/KeeperOfBugs/KeeperOfBugs/blob/main/java.png?raw=true" alt="CSS" width="95" height="60"> <img src="https://github.com/KeeperOfBugs/KeeperOfBugs/blob/main/php.png?raw=true" alt="CSS" width="50" height="60"><br>
+<img src="https://github.com/KeeperOfBugs/KeeperOfBugs/blob/main/databases.png?raw=true" alt="Databases:" width="130" height="60"> <img src="https://github.com/KeeperOfBugs/KeeperOfBugs/blob/main/mysql.png?raw=true" alt="HTML" width="75" height="60"> <br>
+<img src="https://github.com/KeeperOfBugs/KeeperOfBugs/blob/main/other.png?raw=true" alt="Other:" width="85" height="60"> <img src="https://github.com/KeeperOfBugs/KeeperOfBugs/blob/main/lua.png?raw=true" alt="HTML" width="50" height="60"> <img src="https://github.com/KeeperOfBugs/KeeperOfBugs/blob/main/discord.png?raw=true" alt="HTML" width="110" height="60"> <img src="https://github.com/KeeperOfBugs/KeeperOfBugs/blob/main/roblox.png?raw=true" alt="HTML" width="130" height="60"> <img src="https://github.com/KeeperOfBugs/KeeperOfBugs/blob/main/forge.png?raw=true" alt="HTML" width="130" height="60"> 
 
-### My projects:
+WIP
