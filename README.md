@@ -32,4 +32,6 @@ When I'm not at the keyboard, you can find me:
 * 📧 **My email:** [wsieslaw.mackiewicz@gmail.com]
 * 💬 **Chat with me in discord:** `kriftik`
 
+---
+
 <img src="https://i.ytimg.com/vi/l6EDGV7zfsc/maxresdefault.jpg" width="100%">
