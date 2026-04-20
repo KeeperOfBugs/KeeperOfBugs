@@ -1,10 +1,8 @@
 ### Glad to see you here! 👋🏻
 
-**[Looking to hire/commission me?](#)** ---
-
 ---
 
-### 💻 Professional Profile
+### 💻 About me
 👩🏻‍💻 Full-Stack Engineer who ships problem solving apps. </br>
 ⭐ Game Developer that loves to create optimized systems and fun mechanics. </br>
 💭 Lifelong Learner deep-diving into system architecture and how things work under the hood. </br>
