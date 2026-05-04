@@ -22,12 +22,11 @@
 
 ### 📖 Beyond the Code
 When I'm not at the keyboard, you can find me:
-* 📙 Reading classic literature (Currently reading *Wuthering Heights*).
+* 📙 Reading classic literature (Currently reading *The Stranger*).
 * 🤺 Attending classes for old-school combat and historical fencing.
 * 🎮 Playing lore-heavy games 
 
 ### 📫 Let's Connect
-* 📧 **My email:** [wsieslaw.mackiewicz@gmail.com]
 * 💬 **Chat with me in discord:** `kriftik`
 
 ---
